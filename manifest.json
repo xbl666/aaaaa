@@ -1,0 +1,7 @@
+{
+    "name": "meu-reddit",
+    "short_name": "naosei",
+    "lang": "pt-BR",
+    "start_url": "/",
+    "display": "standalone"
+  }
